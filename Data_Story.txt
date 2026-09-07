@@ -1,0 +1,66 @@
+### Insight – Task 1
+
+The analysis shows that employees are distributed across 30 different teams.
+The New Orleans Pelicans have the highest number of employees, with 19 employees,representing 4.15% of the total workforce.
+The Memphis Grizzlies have 18 employees,representing 3.93%.
+Most of the teams have 15 employees, representing approximately 3.28% of the totalworkforce.
+The Orlando Magic and Minnesota Timberwolves have the lowest number of employees, with 14 employees each, representing 3.06%.
+Overall, the employee distribution across teams is relatively balanced, with no single team having a very large share of the total workforce.
+
+### Insight – Task 2
+The analysis shows that SG have the highest number of employees, with 102 employees.
+The analysis shows that C have the lowest number of employees, with 79 employees.
+Overall, the employee distribution across positions is relatively balanced
+
+
+### Insight – Task 3
+The analysis shows that the 26–32 age group is the predominant group, with 202 employees.
+The 18–25 age group has 200 employees, while the 33–40 age group has the lowest representation, with 56 employees.
+Overall, the workforce is predominantly made up of employees aged 18–32, with the 26–32 age group having the highest representation.
+
+
+### Insight – Task 4
+The analysis shows that the Cleveland Cavaliers have the highest salary expenditure, with a total of 106988689.
+The Los Angeles Clippers and Oklahoma City Thunder also have relatively high salary expenditures, with 94854640 and 93765298, respectively.
+The Philadelphia 76ers have the lowest salary expenditure among the teams, with 30992894.
+Overall, salary expenditure varies considerably across teams, with the Cleveland Cavaliers having the highest total salary expenditure.
+
+
+### Insight 
+The analysis shows that C have the highest salary expenditure, with a total of 466377332.
+PG have the second-highest salary expenditure at 446848971, followed by PF with 442560850.
+SF have a salary expenditure of 408020976, while SG have the lowest, with 396976258.
+Overall, C account for the highest total salary expenditure among all positions.
+
+
+### Insight – Task 5
+The analysis shows a correlation of 0.214 between age and salary.
+This indicates a weak positive correlation, meaning that salary tends to increase slightly with age.
+
+
+
+
+Data Story – Overall Insights
+1. The dataset contains employees distributed across 30 teams, with a relatively balanced workforce distribution. The New Orleans Pelicans have the highest         number of employees (19), while the Orlando Magic and Minnesota Timberwolves have the lowest (14 each).
+2. Across positions, SG has the highest number of employees (102), while C has the lowest (79), showing a fairly balanced distribution.
+3. The workforce is mainly concentrated in the 18–32 age range, with the 26–32 age group being the largest (202 employees).
+4. Cleveland Cavaliers have the highest total salary expenditure (106,988,689), while the Philadelphia 76ers have the lowest (30,992,894), indicating     
+   considerable variation in team-level salary spending.
+5. By position, C has the highest total salary expenditure (466,377,332), followed by PG and PF, while SG has the lowest.
+6. The correlation between age and salary is 0.214, indicating a weak positive relationship. This suggests that salary tends to increase slightly as age  
+   increases, but age alone is not a strong predictor of salary.
+
+Overall Conclusion
+Overall, the dataset shows a relatively balanced distribution of employees across teams and positions, with most employees aged between 18 and 32. Salary expenditure varies considerably across teams and positions, while the weak positive correlation between age and salary suggests that factors other than age play a more important role in determining salary.
+
+
+
+
+
+
+
+
+
+
+
+
